@@ -1,5 +1,5 @@
 function getMessage() {
-  return "Hello from production";
+  return "Hello from prod";
 }
 
 module.exports = { getMessage };
